@@ -175,49 +175,8 @@ The application is fully responsive and optimized for:
 - Loading states for async operations
 - Validation for file types and form inputs
 
-## Browser Support
 
-- Chrome (latest)
-- Firefox (latest)
-- Safari (latest)
-- Edge (latest)
 
-## Development Notes
 
-- Bootstrap icons are used for visual elements (requires Bootstrap Icons CDN or package)
-- All dates use ISO format for API communication
-- File uploads support maximum file size as per backend configuration
-- Tags are stored and retrieved from the backend
-
-## Future Enhancements
-
-- Bulk file upload
-- Advanced search with filters
-- File versioning
-- Document sharing
-- User roles and permissions
-- Dashboard analytics
-- Export search results
-
-## Contributing
-
-This is an assignment project for AllSoft. For any queries, contact: nk@allsoft.co
-
-## License
-
-This project is part of the AllSoft Document Management System assignment.
-
-## Author
-
-Developed as part of the AllSoft Front-End Developer assignment.
-
-## Support
-
-For any issues or queries regarding this implementation:
-- Email: nk@allsoft.co
-- Repository: [GitHub URL to be provided]
-
----
-
-**Note**: This is a front-end implementation. The backend API is provided by AllSoft and should be running for full functionality.
+ API is provided by AllSoft and should be running for full functionality.
 
